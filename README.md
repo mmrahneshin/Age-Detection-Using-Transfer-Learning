@@ -11,7 +11,7 @@ This repository contains a Jupyter Notebook for implementing and analyzing age d
 ## Requirements
 - Python 3.x
 - Jupyter Notebook
-- Dependencies listed in `requirements.txt`
+
 
 ## Getting Started
 1. Clone the repository.
